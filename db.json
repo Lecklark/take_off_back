@@ -1,0 +1,11 @@
+{
+  "contacts": [
+    {
+      "fullname": "Голштейн Александр",
+      "email": "golshtein2013@yandex.ru",
+      "phone": "+79277552699",
+      "address": "Самара",
+      "id": 1
+    }
+  ]
+}
